@@ -1,4 +1,20 @@
 # PSR 规范（译）
+link :
+ - https://www.php-fig.org/psr/psr-1/
+ - https://psr.phphub.org/
+ - https://laravel-china.org/docs/psr
+ 
+ 
+ https://www.kancloud.cn/thinkphp/php-fig-psr/3140
+
+## 限定词
+参考[RFC 2119]http://www.ietf.org/rfc/rfc2119.txt
+- MUST : 严格遵循，无条件遵守
+- MUST NOT : 绝对禁止
+- SHOULD : 强烈建议这样做，不强求
+- SHOULD NOT : 强烈建议不这样做，不强求
+- MAY : 可以
+- OPTIONAL : 可选
 
 ## Accepted(通过)
 ```
